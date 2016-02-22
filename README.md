@@ -3,7 +3,7 @@ full-english-brexit
 
 Chrome extension that replaces occurrences of 'brexit' with 'breakfast'
 
-[Direct download of crx file](TODO)
+[Direct download of crx file](https://github.com/nplayfair/full-english-brexit/blob/master/brexit.crx?raw=true)
 
 Shout out to tom dissonance.
 
