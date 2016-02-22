@@ -31,8 +31,8 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bBrexit\b/g, "Brexit");
-	v = v.replace(/\bbrexit\b/g, "brexit");
+	v = v.replace(/\bBrexit\b/g, "Breakfast");
+	v = v.replace(/\bbrexit\b/g, "breakfast");
 	
 	textNode.nodeValue = v;
 }
